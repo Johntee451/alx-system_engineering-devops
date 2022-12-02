@@ -1,1 +1,1 @@
-This is the root directory
+Each script will perform different shell commands
